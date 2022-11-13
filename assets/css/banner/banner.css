@@ -1,5 +1,4 @@
 .banner {
     height: calc(100vh - 72px);
-    max-height: 573px;
     position: relative;
 }
